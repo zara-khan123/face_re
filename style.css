@@ -1,0 +1,23 @@
+body
+{
+    background-color: ghostwhite;
+
+}
+
+.heading
+{
+    width:80%;
+    font-size:22px;
+}
+
+.family_members
+{
+    color:blue;
+}
+
+#camera
+{
+    border:2px dashed black;
+    width:350px;
+    height:350px;
+}
